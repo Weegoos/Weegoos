@@ -18,7 +18,7 @@
   <img src="https://vuepress.vuejs.org/images/hero.png" width="40" height="40" alt="VuePress" />
 </p>
 
-### 📐 Software Architecture & Principles
+### Software Architecture & Principles
 <p align="left">
   <img src="https://img.shields.io/badge/Atomic%20Design-%F0%9F%92%AB-blueviolet?style=for-the-badge" alt="Atomic Design" />
   <img src="https://img.shields.io/badge/SOLID-%F0%9F%92%AA-orange?style=for-the-badge" alt="SOLID" />
@@ -27,14 +27,14 @@
 </p>
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weegoos&show_icons=true&theme=radical)
 
-### 🚀 Most Used Languages
+### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weegoos&layout=compact&theme=radical)
 
-### 🔥 Streak Stats
+### Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Weegoos&theme=radical&hide_border=false)
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Weegoos&theme=radical&no-frame=false&no-bg=true&margin-w=4)
