@@ -1,5 +1,5 @@
 # Hi there, I'm 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF305F&center=true&vCenter=true&width=600&lines=Batyr+Ashim;Fullstack+Developer;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF305F&center=true&vCenter=true&width=600&lines=Batyr+Ashim;Fullstack+Developer)](https://git.io/typing-svg)
 
 
 
